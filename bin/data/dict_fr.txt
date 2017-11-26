@@ -1,0 +1,600 @@
+bleu 	  	Adjectif
+super 	  	Adjectif
+autre 	  	Adjectif
+bizarre 	  	Adjectif
+difficile 	  	Adjectif
+drôle 	  	Adjectif
+étrange 	  	Adjectif
+facile 	  	Adjectif
+grave 	  	Adjectif
+impossible 	  	Adjectif
+jeune 	  	Adjectif
+juste 	  	Adjectif
+libre 	  	Adjectif
+malade 	  	Adjectif
+même 	  	Adjectif
+pauvre 	  	Adjectif
+possible 	  	Adjectif
+propre 	  	Adjectif
+rouge 	  	Adjectif
+sale 	  	Adjectif
+simple 	  	Adjectif
+tranquille 	  	Adjectif
+triste 	  	Adjectif
+vide 	  	Adjectif
+bonne 	  	Adjectif féminin
+toute 	  	Adjectif féminin
+doux 	  	Adjectif masculin
+faux 	  	Adjectif masculin
+français 	  	Adjectif masculin
+gros 	  	Adjectif masculin
+heureux 	  	Adjectif masculin
+mauvais 	  	Adjectif masculin
+sérieux 	  	Adjectif masculin
+vieux 	  	Adjectif masculin
+vrai 	  	Adjectif masculin
+ancien 	  	Adjectif masculin
+beau 	  	Adjectif masculin
+blanc 	  	Adjectif masculin
+certain 	  	Adjectif masculin
+chaud 	  	Adjectif masculin
+cher 	  	Adjectif masculin
+clair 	  	Adjectif masculin
+content 	  	Adjectif masculin
+dernier 	  	Adjectif masculin
+désolé 	  	Adjectif masculin
+différent 	  	Adjectif masculin
+droit 	  	Adjectif masculin
+entier 	  	Adjectif masculin
+fort 	  	Adjectif masculin
+froid 	  	Adjectif masculin
+gentil 	  	Adjectif masculin
+grand 	  	Adjectif masculin
+haut 	  	Adjectif masculin
+humain 	  	Adjectif masculin
+important 	  	Adjectif masculin
+joli 	  	Adjectif masculin
+léger 	  	Adjectif masculin
+long 	  	Adjectif masculin
+meilleur 	  	Adjectif masculin
+mort 	  	Adjectif masculin
+noir 	  	Adjectif masculin
+nouveau 	  	Adjectif masculin
+pareil 	  	Adjectif masculin
+petit 	  	Adjectif masculin
+plein 	  	Adjectif masculin
+premier 	  	Adjectif masculin
+prêt 	  	Adjectif masculin
+prochain 	  	Adjectif masculin
+quoi 	  	Adjectif masculin
+seul 	  	Adjectif masculin
+tout 	  	Adjectif masculin
+vert 	  	Adjectif masculin
+vivant
+aide 	  	Nom commun
+chef 	  	Nom commun
+enfant 	  	Nom commun
+garde 	  	Nom commun
+gauche 	  	Nom commun
+geste 	  	Nom commun
+gosse 	  	Nom commun
+livre 	  	Nom commun
+merci 	  	Nom commun
+mort 	  	Nom commun
+ombre 	  	Nom commun
+part 	  	Nom commun
+poche 	  	Nom commun
+professeur 	  	Nom commun
+tour 	  	Nom commun
+fois 	  	Nom commun féminin
+madame 	  	Nom commun féminin
+paix 	  	Nom commun féminin
+voix 	  	Nom commun féminin
+affaire 	  	Nom commun féminin
+année 	  	Nom commun féminin
+arme 	  	Nom commun féminin
+armée 	  	Nom commun féminin
+attention 	  	Nom commun féminin
+balle 	  	Nom commun féminin
+boîte 	  	Nom commun féminin
+bouche 	  	Nom commun féminin
+carte 	  	Nom commun féminin
+cause 	  	Nom commun féminin
+chambre 	  	Nom commun féminin
+chance 	  	Nom commun féminin
+chose 	  	Nom commun féminin
+classe 	  	Nom commun féminin
+confiance 	  	Nom commun féminin
+couleur 	  	Nom commun féminin
+cour 	  	Nom commun féminin
+cuisine 	  	Nom commun féminin
+dame 	  	Nom commun féminin
+dent 	  	Nom commun féminin
+droite 	  	Nom commun féminin
+école 	  	Nom commun féminin
+église 	  	Nom commun féminin
+envie 	  	Nom commun féminin
+épaule 	  	Nom commun féminin
+époque 	  	Nom commun féminin
+équipe 	  	Nom commun féminin
+erreur 	  	Nom commun féminin
+espèce 	  	Nom commun féminin
+face 	  	Nom commun féminin
+façon 	  	Nom commun féminin
+faim 	  	Nom commun féminin
+famille 	  	Nom commun féminin
+faute 	  	Nom commun féminin
+femme 	  	Nom commun féminin
+fenêtre 	  	Nom commun féminin
+fête 	  	Nom commun féminin
+fille 	  	Nom commun féminin
+fleur 	  	Nom commun féminin
+force 	  	Nom commun féminin
+forme 	  	Nom commun féminin
+guerre 	  	Nom commun féminin
+gueule 	  	Nom commun féminin
+habitude 	  	Nom commun féminin
+heure 	  	Nom commun féminin
+histoire 	  	Nom commun féminin
+idée 	  	Nom commun féminin
+image 	  	Nom commun féminin
+impression 	  	Nom commun féminin
+jambe 	  	Nom commun féminin
+joie 	  	Nom commun féminin
+journée 	  	Nom commun féminin
+langue 	  	Nom commun féminin
+lettre 	  	Nom commun féminin
+lèvre 	  	Nom commun féminin
+ligne 	  	Nom commun féminin
+lumière 	  	Nom commun féminin
+main 	  	Nom commun féminin
+maison 	  	Nom commun féminin
+maman 	  	Nom commun féminin
+manière 	  	Nom commun féminin
+marche 	  	Nom commun féminin
+merde 	  	Nom commun féminin
+mère 	  	Nom commun féminin
+minute 	  	Nom commun féminin
+musique 	  	Nom commun féminin
+nuit 	  	Nom commun féminin
+odeur 	  	Nom commun féminin
+oreille 	  	Nom commun féminin
+parole 	  	Nom commun féminin
+partie 	  	Nom commun féminin
+peau 	  	Nom commun féminin
+peine 	  	Nom commun féminin
+pensée 	  	Nom commun féminin
+personne 	  	Nom commun féminin
+peur 	  	Nom commun féminin
+photo 	  	Nom commun féminin
+pièce 	  	Nom commun féminin
+pierre 	  	Nom commun féminin
+place 	  	Nom commun féminin
+police 	  	Nom commun féminin
+porte 	  	Nom commun féminin
+présence 	  	Nom commun féminin
+prison 	  	Nom commun féminin
+putain 	  	Nom commun féminin
+question 	  	Nom commun féminin
+raison 	  	Nom commun féminin
+réponse 	  	Nom commun féminin
+robe 	  	Nom commun féminin
+route 	  	Nom commun féminin
+salle 	  	Nom commun féminin
+scène 	  	Nom commun féminin
+seconde 	  	Nom commun féminin
+sécurité 	  	Nom commun féminin
+semaine 	  	Nom commun féminin
+situation 	  	Nom commun féminin
+soeur 	  	Nom commun féminin
+soirée 	  	Nom commun féminin
+sorte 	  	Nom commun féminin
+suite 	  	Nom commun féminin
+table 	  	Nom commun féminin
+terre 	  	Nom commun féminin
+tête 	  	Nom commun féminin
+vérité 	  	Nom commun féminin
+ville 	  	Nom commun féminin
+voiture 	  	Nom commun féminin
+avis 	  	Nom commun masculin
+bois 	  	Nom commun masculin
+bras 	  	Nom commun masculin
+choix 	  	Nom commun masculin
+corps 	  	Nom commun masculin
+cours 	  	Nom commun masculin
+gars 	  	Nom commun masculin
+mois 	  	Nom commun masculin
+pays 	  	Nom commun masculin
+prix 	  	Nom commun masculin
+propos 	  	Nom commun masculin
+sens 	  	Nom commun masculin
+temps 	  	Nom commun masculin
+travers 	  	Nom commun masculin
+vieux 	  	Nom commun masculin
+accord 	  	Nom commun masculin
+agent 	  	Nom commun masculin
+amour 	  	Nom commun masculin
+appel 	  	Nom commun masculin
+arbre 	  	Nom commun masculin
+argent 	  	Nom commun masculin
+avenir 	  	Nom commun masculin
+avion 	  	Nom commun masculin
+bateau 	  	Nom commun masculin
+bébé 	  	Nom commun masculin
+besoin 	  	Nom commun masculin
+bonheur 	  	Nom commun masculin
+bonjour 	  	Nom commun masculin
+bord 	  	Nom commun masculin
+boulot 	  	Nom commun masculin
+bout 	  	Nom commun masculin
+bruit 	  	Nom commun masculin
+bureau 	  	Nom commun masculin
+café 	  	Nom commun masculin
+camp 	  	Nom commun masculin
+capitaine 	  	Nom commun masculin
+chat 	  	Nom commun masculin
+chemin 	  	Nom commun masculin
+chéri 	  	Nom commun masculin
+cheval 	  	Nom commun masculin
+cheveu 	  	Nom commun masculin
+chien 	  	Nom commun masculin
+ciel 	  	Nom commun masculin
+client 	  	Nom commun masculin
+cœur 	  	Nom commun masculin
+coin 	  	Nom commun masculin
+colonel 	  	Nom commun masculin
+compte 	  	Nom commun masculin
+copain 	  	Nom commun masculin
+côté 	  	Nom commun masculin
+coup 	  	Nom commun masculin
+courant 	  	Nom commun masculin
+début 	  	Nom commun masculin
+départ 	  	Nom commun masculin
+dieu 	  	Nom commun masculin
+docteur 	  	Nom commun masculin
+doigt 	  	Nom commun masculin
+dollar 	  	Nom commun masculin
+doute 	  	Nom commun masculin
+droit 	  	Nom commun masculin
+effet 	  	Nom commun masculin
+endroit 	  	Nom commun masculin
+ennemi 	  	Nom commun masculin
+escalier 	  	Nom commun masculin
+esprit 	  	Nom commun masculin
+état 	  	Nom commun masculin
+être 	  	Nom commun masculin
+exemple 	  	Nom commun masculin
+fait 	  	Nom commun masculin
+film 	  	Nom commun masculin
+flic 	  	Nom commun masculin
+fond 	  	Nom commun masculin
+français 	  	Nom commun masculin
+frère 	  	Nom commun masculin
+front 	  	Nom commun masculin
+garçon 	  	Nom commun masculin
+général 	  	Nom commun masculin
+genre 	  	Nom commun masculin
+goût 	  	Nom commun masculin
+gouvernement 	  	Nom commun masculin
+grand 	  	Nom commun masculin
+groupe 	  	Nom commun masculin
+haut 	  	Nom commun masculin
+homme 	  	Nom commun masculin
+honneur 	  	Nom commun masculin
+hôtel 	  	Nom commun masculin
+instant 	  	Nom commun masculin
+intérêt 	  	Nom commun masculin
+intérieur 	  	Nom commun masculin
+jardin 	  	Nom commun masculin
+jour 	  	Nom commun masculin
+journal 	  	Nom commun masculin
+lieu 	  	Nom commun masculin
+long 	  	Nom commun masculin
+maître 	  	Nom commun masculin
+mari 	  	Nom commun masculin
+mariage 	  	Nom commun masculin
+matin 	  	Nom commun masculin
+médecin 	  	Nom commun masculin
+mètre 	  	Nom commun masculin
+milieu 	  	Nom commun masculin
+million 	  	Nom commun masculin
+moment 	  	Nom commun masculin
+monde 	  	Nom commun masculin
+monsieur 	  	Nom commun masculin
+mouvement 	  	Nom commun masculin
+moyen 	  	Nom commun masculin
+noir 	  	Nom commun masculin
+nouveau 	  	Nom commun masculin
+numéro 	  	Nom commun masculin
+oeil 	  	Nom commun masculin
+oiseau 	  	Nom commun masculin
+oncle 	  	Nom commun masculin
+ordre 	  	Nom commun masculin
+papa 	  	Nom commun masculin
+papier 	  	Nom commun masculin
+parent 	  	Nom commun masculin
+passage 	  	Nom commun masculin
+passé 	  	Nom commun masculin
+patron 	  	Nom commun masculin
+père 	  	Nom commun masculin
+petit 	  	Nom commun masculin
+peuple 	  	Nom commun masculin
+pied 	  	Nom commun masculin
+plaisir 	  	Nom commun masculin
+plan 	  	Nom commun masculin
+point 	  	Nom commun masculin
+pouvoir 	  	Nom commun masculin
+premier 	  	Nom commun masculin
+présent 	  	Nom commun masculin
+président 	  	Nom commun masculin
+prince 	  	Nom commun masculin
+problème 	  	Nom commun masculin
+quartier 	  	Nom commun masculin
+rapport 	  	Nom commun masculin
+regard 	  	Nom commun masculin
+reste 	  	Nom commun masculin
+retard 	  	Nom commun masculin
+retour 	  	Nom commun masculin
+rêve 	  	Nom commun masculin
+revoir 	  	Nom commun masculin
+salut 	  	Nom commun masculin
+sang 	  	Nom commun masculin
+secret 	  	Nom commun masculin
+seigneur 	  	Nom commun masculin
+sentiment 	  	Nom commun masculin
+service 	  	Nom commun masculin
+seul 	  	Nom commun masculin
+siècle 	  	Nom commun masculin
+signe 	  	Nom commun masculin
+silence 	  	Nom commun masculin
+soir 	  	Nom commun masculin
+soldat 	  	Nom commun masculin
+soleil 	  	Nom commun masculin
+sourire 	  	Nom commun masculin
+souvenir 	  	Nom commun masculin
+sujet 	  	Nom commun masculin
+téléphone 	  	Nom commun masculin
+tout 	  	Nom commun masculin
+train 	  	Nom commun masculin
+travail 	  	Nom commun masculin
+trou 	  	Nom commun masculin
+truc 	  	Nom commun masculin
+type 	  	Nom commun masculin
+vent 	  	Nom commun masculin
+ventre 	  	Nom commun masculin
+verre 	  	Nom commun masculin
+village 	  	Nom commun masculin
+visage 	  	Nom commun masculin
+voyage 	  	Nom commun masculin
+fils 	  	Nom commun masculin pluriel
+gens 	  	Nom commun pluriel
+abandonner 	  	Verbe
+accepter 	  	Verbe
+accompagner 	  	Verbe
+acheter 	  	Verbe
+adorer 	  	Verbe
+agir 	  	Verbe
+aider 	  	Verbe
+aimer 	  	Verbe
+ajouter 	  	Verbe
+aller 	  	Verbe
+amener 	  	Verbe
+amuser 	  	Verbe
+annoncer 	  	Verbe
+apercevoir 	  	Verbe
+apparaître 	  	Verbe
+appeler 	  	Verbe
+apporter 	  	Verbe
+apprendre 	  	Verbe
+approcher 	  	Verbe
+arranger 	  	Verbe
+arrêter 	  	Verbe
+arriver 	  	Verbe
+asseoir 	  	Verbe
+assurer 	  	Verbe
+attaquer 	  	Verbe
+atteindre 	  	Verbe
+attendre 	  	Verbe
+avancer 	  	Verbe
+avoir 	  	Verbe
+baisser 	  	Verbe
+battre 	  	Verbe
+boire 	  	Verbe
+bouger 	  	Verbe
+brûler 	  	Verbe
+cacher 	  	Verbe
+calmer 	  	Verbe
+casser 	  	Verbe
+cesser 	  	Verbe
+changer 	  	Verbe
+chanter 	  	Verbe
+charger 	  	Verbe
+chercher 	  	Verbe
+choisir 	  	Verbe
+commencer 	  	Verbe
+comprendre 	  	Verbe
+compter 	  	Verbe
+conduire 	  	Verbe
+connaître 	  	Verbe
+continuer 	  	Verbe
+coucher 	  	Verbe
+couper 	  	Verbe
+courir 	  	Verbe
+couvrir 	  	Verbe
+craindre 	  	Verbe
+crier 	  	Verbe
+croire 	  	Verbe
+danser 	  	Verbe
+décider 	  	Verbe
+découvrir 	  	Verbe
+dégager 	  	Verbe
+demander 	  	Verbe
+descendre 	  	Verbe
+désoler 	  	Verbe
+détester 	  	Verbe
+détruire 	  	Verbe
+devenir 	  	Verbe
+deviner 	  	Verbe
+devoir 	  	Verbe
+dire 	  	Verbe
+disparaître 	  	Verbe
+donner 	  	Verbe
+dormir 	  	Verbe
+échapper 	  	Verbe
+écouter 	  	Verbe
+écrire 	  	Verbe
+éloigner 	  	Verbe
+embrasser 	  	Verbe
+emmener 	  	Verbe
+empêcher 	  	Verbe
+emporter 	  	Verbe
+enlever 	  	Verbe
+entendre 	  	Verbe
+entrer 	  	Verbe
+envoyer 	  	Verbe
+espérer 	  	Verbe
+essayer 	  	Verbe
+être 	  	Verbe
+éviter 	  	Verbe
+excuser 	  	Verbe
+exister 	  	Verbe
+expliquer 	  	Verbe
+faire 	  	Verbe
+falloir 	  	Verbe
+fermer 	  	Verbe
+filer 	  	Verbe
+finir 	  	Verbe
+foutre 	  	Verbe
+frapper 	  	Verbe
+gagner 	  	Verbe
+garder 	  	Verbe
+glisser 	  	Verbe
+habiter 	  	Verbe
+ignorer 	  	Verbe
+imaginer 	  	Verbe
+importer 	  	Verbe
+inquiéter 	  	Verbe
+installer 	  	Verbe
+intéresser 	  	Verbe
+inviter 	  	Verbe
+jeter 	  	Verbe
+jouer 	  	Verbe
+jurer 	  	Verbe
+lâcher 	  	Verbe
+laisser 	  	Verbe
+lancer 	  	Verbe
+lever 	  	Verbe
+lire 	  	Verbe
+maintenir 	  	Verbe
+manger 	  	Verbe
+manquer 	  	Verbe
+marcher 	  	Verbe
+marier 	  	Verbe
+mener 	  	Verbe
+mentir 	  	Verbe
+mettre 	  	Verbe
+monter 	  	Verbe
+montrer 	  	Verbe
+mourir 	  	Verbe
+naître 	  	Verbe
+obliger 	  	Verbe
+occuper 	  	Verbe
+offrir 	  	Verbe
+oser 	  	Verbe
+oublier 	  	Verbe
+ouvrir 	  	Verbe
+paraître 	  	Verbe
+parler 	  	Verbe
+partir 	  	Verbe
+passer 	  	Verbe
+payer 	  	Verbe
+penser 	  	Verbe
+perdre 	  	Verbe
+permettre 	  	Verbe
+plaire 	  	Verbe
+pleurer 	  	Verbe
+porter 	  	Verbe
+poser 	  	Verbe
+pousser 	  	Verbe
+pouvoir 	  	Verbe
+préférer 	  	Verbe
+prendre 	  	Verbe
+préparer 	  	Verbe
+présenter 	  	Verbe
+prévenir 	  	Verbe
+prier 	  	Verbe
+promettre 	  	Verbe
+proposer 	  	Verbe
+protéger 	  	Verbe
+quitter 	  	Verbe
+raconter 	  	Verbe
+ramener 	  	Verbe
+rappeler 	  	Verbe
+recevoir 	  	Verbe
+reconnaître 	  	Verbe
+réfléchir 	  	Verbe
+refuser 	  	Verbe
+regarder 	  	Verbe
+rejoindre 	  	Verbe
+remarquer 	  	Verbe
+remettre 	  	Verbe
+remonter 	  	Verbe
+rencontrer 	  	Verbe
+rendre 	  	Verbe
+rentrer 	  	Verbe
+répéter 	  	Verbe
+répondre 	  	Verbe
+reposer 	  	Verbe
+reprendre 	  	Verbe
+ressembler 	  	Verbe
+rester 	  	Verbe
+retenir 	  	Verbe
+retirer 	  	Verbe
+retourner 	  	Verbe
+retrouver 	  	Verbe
+réussir 	  	Verbe
+réveiller 	  	Verbe
+revenir 	  	Verbe
+rêver 	  	Verbe
+revoir 	  	Verbe
+rire 	  	Verbe
+risquer 	  	Verbe
+rouler 	  	Verbe
+sauter 	  	Verbe
+sauver 	  	Verbe
+savoir 	  	Verbe
+sembler 	  	Verbe
+sentir 	  	Verbe
+séparer 	  	Verbe
+serrer 	  	Verbe
+servir 	  	Verbe
+sortir 	  	Verbe
+souffrir 	  	Verbe
+sourire 	  	Verbe
+souvenir 	  	Verbe
+suffire 	  	Verbe
+suivre 	  	Verbe
+taire 	  	Verbe
+tendre 	  	Verbe
+tenir 	  	Verbe
+tenter 	  	Verbe
+terminer 	  	Verbe
+tirer 	  	Verbe
+tomber 	  	Verbe
+toucher 	  	Verbe
+tourner 	  	Verbe
+traîner 	  	Verbe
+traiter 	  	Verbe
+travailler 	  	Verbe
+traverser 	  	Verbe
+tromper 	  	Verbe
+trouver 	  	Verbe
+tuer 	  	Verbe
+utiliser 	  	Verbe
+valoir 	  	Verbe
+vendre 	  	Verbe
+venir 	  	Verbe
+vivre 	  	Verbe
+voir 	  	Verbe
+voler 	  	Verbe
+vouloir 	  	Verbe
