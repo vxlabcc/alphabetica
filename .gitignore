@@ -1,0 +1,4 @@
+obj/
+obj/*
+bin/libs
+bin/libs/*
