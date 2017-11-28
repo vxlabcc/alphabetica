@@ -2,3 +2,5 @@ obj/
 obj/*
 bin/libs
 bin/libs/*
+*.user
+bin/alphabetica
