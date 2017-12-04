@@ -11,7 +11,7 @@ public:
 
 	void setupLetter() {
 		// Load image based of the choosen letter
-		image.load("letters/" + ofToUpper(ofToString(_keyChar)) + ".png");
+		image.load("letters-" + ofToString(ofGetWindowHeight()) + "/" + ofToUpper(ofToString(_keyChar)) + ".png");
 		song.load("songs/" + ofToUpper(ofToString(_keyChar)) + ".mp3");
 
 		song.setVolume(1.0);
@@ -19,7 +19,7 @@ public:
 		song.play();
 
 		startTime = ofGetElapsedTimeMillis();
-		endTime = false;
+		_timeout = false;
 	}
 
 	void draw() {
@@ -39,18 +39,16 @@ public:
 
 		ofPopMatrix();
 
-		float timer = ofGetElapsedTimeMillis() - startTime;
+		_lifetime = ofGetElapsedTimeMillis() - startTime;
 
-		if (timer >= LIFETIME) { endTime = true; }
+		_timeout = _lifetime >= MAX_LIFE_TIME;
 	}
 	// Return the width of the image
 	float getLetterWidth() const { return image.getWidth(); }
 	// Return the height of the image
 	float getLetterHeight() const { return image.getHeight(); }
 
-	bool timeToDie() const { return endTime; }
-
-	static const float LIFETIME;
+	bool timeToDie() const { return _timeout; }
 
 private:
 	char _keyChar;
@@ -58,7 +56,10 @@ private:
 	ofSoundPlayer song;
 
 	float startTime;
-	bool endTime;
+	bool _timeout;
+	float _lifetime;
+
+	const float MAX_LIFE_TIME = 30000; // 30 seconds
 };
 
 
@@ -71,6 +72,8 @@ public:
 
 	void keyPressed(int key);
 	void keyReleased(int key);
+
+	void drawDebug(const string &text);
 
 	static const string alphabet;
 	static const char KEYS[][9];
