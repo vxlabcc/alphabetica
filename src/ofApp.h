@@ -11,15 +11,15 @@ public:
 
 	void setupLetter() {
 		// Load image based of the choosen letter
-		image.load("letters/" + ofToUpper(ofToString(_keyChar)) + ".png");
-		song.load("songs/" + ofToUpper(ofToString(_keyChar)) + ".mp3");
+		image.load("letters-" + ofToString(ofGetWindowHeight()) + "/" + ofToUpper(ofToString(_keyChar)) + ".png");
+		// song.load("songs/" + ofToUpper(ofToString(_keyChar)) + ".mp3");
 
-		song.setVolume(1.0);
-		song.setLoop(false);
-		song.play();
+		// song.setVolume(1.0);
+		// song.setLoop(false);
+		// song.play();
 
 		startTime = ofGetElapsedTimeMillis();
-		endTime = false;
+		_timeout = false;
 	}
 
 	void draw() {
@@ -39,18 +39,19 @@ public:
 
 		ofPopMatrix();
 
-		float timer = ofGetElapsedTimeMillis() - startTime;
+		_lifetime = ofGetElapsedTimeMillis() - startTime;
 
-		if (timer >= LIFETIME) { endTime = true; }
+		_timeout = _lifetime >= MAX_LIFE_TIME;
 	}
 	// Return the width of the image
 	float getLetterWidth() const { return image.getWidth(); }
 	// Return the height of the image
 	float getLetterHeight() const { return image.getHeight(); }
+	// Return current age of the letter
+	float getElapsedTIme() const { return _lifetime; }
+	char getLetterChar() const { return _keyChar; } // TODO: delete this line in case no need it
 
-	bool timeToDie() const { return endTime; }
-
-	static const float LIFETIME;
+	bool timeToDie() const { return _timeout; }
 
 private:
 	char _keyChar;
@@ -58,7 +59,11 @@ private:
 	ofSoundPlayer song;
 
 	float startTime;
-	bool endTime;
+	bool _timeout;
+	float _lifetime;
+	
+	const float MAX_LIFE_TIME = 30000; // 30 seconds
+	const float ESCAPE_DELAY = 3000; // 3 seconds
 };
 
 
@@ -72,12 +77,26 @@ public:
 	void keyPressed(int key);
 	void keyReleased(int key);
 
+	void composeSentence(const string &letter);
+	void setupSentence(const string &text, vector <shared_ptr<Letter> > &word);
+	void drawDebug(const string &text);
+
+	// Getters
+	string getSentence() const { return _sentence; }
+	// Setters
+	void setSentence(const string &text) { _sentence = text; }	
+	// Static variables
 	static const string alphabet;
 	static const char KEYS[][9];
 
 private:
 	ofxBox2d box2d;
 	vector <shared_ptr<Letter> > letters;
+	vector <shared_ptr<Letter> > sentence;
+	vector <shared_ptr<Letter> > message;
+	string _sentence = "";
+	string sentenceArray;
+	int cursorX;
 
 	int previousKey;
 	map<int, int> localeTable;
