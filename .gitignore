@@ -1,6 +1,8 @@
 obj/
 obj/*
-bin/libs
+bin/*
+!bin/data
 bin/libs/*
 *.user
 bin/alphabetica
+.vscode/*
